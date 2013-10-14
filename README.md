@@ -1,2 +1,2 @@
-example
-=======
+Global setup:
+Set up git
